@@ -6,3 +6,6 @@ source mlai_venv/bin/activate
 
 #to stop
 deactivate
+
+#to add all files
+git add -A
